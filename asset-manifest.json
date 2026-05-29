@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sivaganeshkamepalli/business-dashboard.git/static/css/main.29dcb864.css",
+    "main.js": "/sivaganeshkamepalli/business-dashboard.git/static/js/main.6942e3e7.js",
+    "index.html": "/sivaganeshkamepalli/business-dashboard.git/index.html",
+    "main.29dcb864.css.map": "/sivaganeshkamepalli/business-dashboard.git/static/css/main.29dcb864.css.map",
+    "main.6942e3e7.js.map": "/sivaganeshkamepalli/business-dashboard.git/static/js/main.6942e3e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29dcb864.css",
+    "static/js/main.6942e3e7.js"
+  ]
+}
