@@ -1,0 +1,59 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --primary: #1a1f2e;
+  --primary-light: #252b3b;
+  --accent: #e8a020;
+  --accent-hover: #d4901a;
+  --danger: #e53e3e;
+  --success: #38a169;
+  --text-main: #1a1f2e;
+  --text-muted: #6b7280;
+  --text-light: #f9fafb;
+  --border: #e5e7eb;
+  --bg-page: #f4f5f7;
+  --bg-card: #ffffff;
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.08);
+  --shadow-md: 0 4px 16px rgba(0,0,0,0.10);
+  --shadow-lg: 0 8px 32px rgba(0,0,0,0.14);
+  --radius: 10px;
+  --font-main: 'Sora', sans-serif;
+  --font-display: 'DM Serif Display', serif;
+  --sidebar-width: 220px;
+  --header-height: 64px;
+}
+
+html, body, #root {
+  height: 100%;
+  font-family: var(--font-main);
+  background: var(--bg-page);
+  color: var(--text-main);
+}
+
+button {
+  font-family: var(--font-main);
+  cursor: pointer;
+}
+
+input, select {
+  font-family: var(--font-main);
+}
+
+@keyframes blink-alert {
+  0%, 100% { opacity: 1; background-color: #fff3cd; }
+  50% { opacity: 0.4; background-color: #ffe08a; }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideDown {
+  from { opacity: 0; transform: translateY(-18px); }
+  to { opacity: 1; transform: translateY(0); }
+}
