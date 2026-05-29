@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/sivaganeshkamepalli/business-dashboard.git/static/css/main.29dcb864.css",
-    "main.js": "/sivaganeshkamepalli/business-dashboard.git/static/js/main.6942e3e7.js",
+    "main.js": "/sivaganeshkamepalli/business-dashboard.git/static/js/main.fe79b80a.js",
     "index.html": "/sivaganeshkamepalli/business-dashboard.git/index.html",
     "main.29dcb864.css.map": "/sivaganeshkamepalli/business-dashboard.git/static/css/main.29dcb864.css.map",
-    "main.6942e3e7.js.map": "/sivaganeshkamepalli/business-dashboard.git/static/js/main.6942e3e7.js.map"
+    "main.fe79b80a.js.map": "/sivaganeshkamepalli/business-dashboard.git/static/js/main.fe79b80a.js.map"
   },
   "entrypoints": [
     "static/css/main.29dcb864.css",
-    "static/js/main.6942e3e7.js"
+    "static/js/main.fe79b80a.js"
   ]
 }
